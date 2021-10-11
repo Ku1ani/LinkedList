@@ -1,0 +1,13 @@
+C:\Users\C833000\source\repos\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+C:\Users\C833000\source\repos\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+C:\Users\C833000\source\repos\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+C:\Users\C833000\source\repos\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+C:\Users\C833000\source\repos\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\C833000\source\repos\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\C833000\source\repos\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+C:\Users\C833000\source\repos\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\C833000\source\repos\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+C:\Users\C833000\source\repos\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\C833000\source\repos\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\C833000\source\repos\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\C833000\source\repos\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
